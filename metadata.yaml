@@ -1,5 +1,8 @@
 _repo: Lykke-Per-F0xf8rste-Del_51384
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pontoppidan, Henrik
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46387'
     url: http://www.gutenberg.org/2009/agents/46387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51384#Lykke-Per-F0xf8rste-Del
 gutenberg_issued: '2016-03-06'
 gutenberg_type: Text
 identifiers:
