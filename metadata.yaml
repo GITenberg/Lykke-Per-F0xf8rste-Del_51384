@@ -1,0 +1,26 @@
+_repo: Lykke-Per-F0xf8rste-Del_51384
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pontoppidan, Henrik
+    alias: Urbanus
+    birthdate: 1857
+    deathdate: 1943
+    gutenberg_agent_id: '46387'
+    url: http://www.gutenberg.org/2009/agents/46387
+description: ''
+gutenberg_issued: '2016-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51384'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Denmark -- Fiction'
+- !lcsh 'Romans à clef'
+- !lcc 'PT'
+- GITenberg
+title: Lykke-Per. Første Del
+url: http://www.gutenberg.org/ebooks/51384
